@@ -1,4 +1,4 @@
 field,display_name,btn,hidden,sort_name
-composer,Composer,true,,,
-nationality,Nationality,true,,,
-period,Period,true,,,
+composer,Composer,true,,
+nationality,Nationality,true,,
+period,Period,true,,
