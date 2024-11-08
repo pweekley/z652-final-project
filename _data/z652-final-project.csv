@@ -1,5 +1,5 @@
 objectid,parentid,filename,format,language,title,location,performer,date,composer,venue,period,nationality
 pw_001,,pw_001.pdf,application/pdf,eng,Pittsburgh Symphony Orchestra 2023-06-09,"Pittsburgh, PA",Pittsburgh Symphony Orchestra,2023-06-09,"Gershwin, George, 1898-1937; Garrop, Stacy, 1969-; Strauss, Richard, 1864-1949; Ravel, Maurice, 1875-1937",Heinz Hall,Modern; Contemporary,American; German; French
 pw_002,,,multiple,eng,Indiana University Voces Caelestes 2024-02-13,"Bloomington, IN",Indiana University Voces Caelestes,2024-02-13,"Paulus, Stephen; Mendelssohn-Bartholdy, Felix, 1809-1847; Kodály, Zoltán, 1882-1967; Carrillo, César Alejandro, 1957-; Brahms, Johannes, 1833-1897; Rheinberger, Josef, 1839-1901; Kõrvits, Tõnu, 1969-; Galbraith, Nancy, 1951-",Auer Hall,Romantic; Modern; Contemporary,American; German; Hungarian; Venezuelan; Liechtensteiner; Estonian
-pw_003,pw_002,pw_003.jpeg,image/jpeg,eng,Indiana University Voces Caelestes 2024-02-13 Page 1,,,,,,,
-pw_004,pw_002,pw_004.jpeg,image/jpeg,eng,Indiana University Voces Caelestes 2024-02-13 Page 2,,,,,,,
+pw_003,pw_002,pw_003.jpg,image/jpeg,eng,Indiana University Voces Caelestes 2024-02-13 Page 1,,,,,,,
+pw_004,pw_002,pw_004.jpg,image/jpeg,eng,Indiana University Voces Caelestes 2024-02-13 Page 2,,,,,,,
