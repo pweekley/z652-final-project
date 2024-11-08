@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: https://images.squarespace-cdn.com/content/v1/5696a86d40667ada32186ba3/1453760042259-H93QEB7R8NG54MWFHCE0/Classical+Music+is+Dead.jpg?format=2500w
+featured-image: "https://images.squarespace-cdn.com/content/v1/5696a86d40667ada32186ba3/1453760042259-H93QEB7R8NG54MWFHCE0/Classical+Music+is+Dead.jpg?format=2500w"
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
