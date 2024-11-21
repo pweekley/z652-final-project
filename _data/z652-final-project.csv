@@ -1,45 +1,66 @@
-objectid,parentid,filename,format,language,title,location,performer,date,composer,venue,period,nationality
-pw_001,,pw_001.pdf,application/pdf,eng,Pittsburgh Symphony Orchestra 2023-06-09,"Pittsburgh, PA",Pittsburgh Symphony Orchestra,2023-06-09,"Gershwin, George, 1898-1937; Garrop, Stacy, 1969-; Strauss, Richard, 1864-1949; Ravel, Maurice, 1875-1937",Heinz Hall,Modern; Contemporary,American; German; French
-pw_002,,,multiple,eng,Indiana University Voces Caelestes 2024-02-13,"Bloomington, IN",Indiana University Voces Caelestes,2024-02-13,"Paulus, Stephen; Mendelssohn-Bartholdy, Felix, 1809-1847; Kodály, Zoltán, 1882-1967; Carrillo, César Alejandro, 1957-; Brahms, Johannes, 1833-1897; Rheinberger, Josef, 1839-1901; Kõrvits, Tõnu, 1969-; Galbraith, Nancy, 1951-",Auer Hall,Romantic; Modern; Contemporary,American; German; Hungarian; Venezuelan; Liechtensteiner; Estonian
-pw_003,pw_002,pw_003.jpg,image/jpeg,eng,Indiana University Voces Caelestes 2024-02-13 Page 1,,,,,,,
-pw_004,pw_002,pw_004.jpg,image/jpeg,eng,Indiana University Voces Caelestes 2024-02-13 Page 2,,,,,,,
-pw_005,,pw_005.jpg,image/jpeg,eng,Indiana University Chamber Orchestra 2024-10-23,"Bloomington, IN",Indiana University Chamber Orchestra,2024-10-23,"Haydn, Joseph, 1732-1809; Phan, P. Q., 1947-; Milhaud, Darius, 1892-1974",Auer Hall,Classical; Modern; Contemporary,Austrian; Vietmanese; French
-pw_006,,pw_006.jpg,image/jpeg,eng,Indiana University Philharmonic Orchestra 2024-09-14,"Bloomington, IN",Indiana University Philharmonic Orchestra,2024-09-14,"Frank, Gabriela Lena; Britten, Benjamin, 1913-1976; Brahms, Johannes, 1833-1897",Musical Arts Center,Contemporary; Modern; Romantic,American; English; German
-pw_007,,pw_007.jpg,image/jpeg,eng,Indiana University Symphony Orchestra 2024-09-15,"Bloomington, IN",Indiana University Symphony Orchestra,2024-09-15,"Hailstork, Adolphus C.; Tower, Joan, 1938-; Respighi, Ottorino, 1879-1936",Musical Arts Center,Modern; Contemporary,American; Italian
-pw_008,,pw_008.jpg,multiple,eng,Sanctuary Choir Section Leaders 2024-09-29,"Indianapolis, IN",Sanctuary Choir Section Leaders,2024-09-29,"Ives, Charles, 1874-1954; Copland, Aaron, 1900-1990; Quilter, Roger, 1877-1953; Ravel, Maurice, 1875-1937; Strauss, Richard, 1864-1949; Fauré, Gabriel, 1845-1924",Second Presbyterian Church,Modern; Romantic,American; English; German; French
-pw_009,pw_008,pw_009.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2024-09-29 Page 1,,,,,,,
-pw_010,pw_008,pw_010.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2024-09-29 Page 2,,,,,,,
-pw_011,pw_008,pw_011.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2024-09-29 Page 3,,,,,,,
-pw_012,,pw_012.jpg,multiple,eng,Indiana University Singers 2024-10-16,"Bloomington, IN",Indiana University Singers,2024-10-16,"Fauré, Gabriel, 1845-1924; Debussy, Claude, 1862-1918; Ravel, Maurice, 1875-1937; Boulanger, Lili, 1893-1918",Auer Hall,Romantic; Modern,French
-pw_013,pw_012,pw_013.jpg,image/jpeg,eng,Indiana University Singers 2024-10-16 Page 1,,,,,,,
-pw_014,pw_012,pw_014.jpg,image/jpeg,eng,Indiana University Singers 2024-10-16 Page 2,,,,,,,
-pw_015,,pw_015.jpg,image/jpeg,eng,Sanctuary Choir 2024-04-28,"Indianapolis, IN",Sanctuary Choir,2024-04-28,"Puccini, Giacomo, 1858-1924",Second Presbyterian Church,Romantic,Italian
-pw_016,,pw_016.jpg,multiple,eng,Sanctuary Choir Section Leaders 2024-02-11,"Indianapolis, IN",Sanctuary Choir Section Leaders,2024-02-11,"Wildhorn, Frank; Gounod, Charles, 1818-1893; Rodgers, Richard, 1902-1979; Schumann, Robert, 1810-1856; Schubert, Franz, 1797-1828; Hahn, Reynaldo, 1875-1947; Quilter, Roger, 1877-1953; Bernstein, Leonard, 1918-1990; Strauss, Richard, 1864-1949",Second Presbyterian Church,Classical; Romantic; Modern; Contemporary,American; French; German; Austrian; English
-pw_017,pw_016,pw_017.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2024-02-11 Page 1,,,,,,,
-pw_018,pw_016,pw_018.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2024-02-11 Page 2,,,,,,,
-pw_019,pw_016,pw_019.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2024-02-11 Page 3,,,,,,,
-pw_020,pw_016,pw_020.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2024-02-11 Page 4,,,,,,,
-pw_021,pw_016,pw_021.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2024-02-11 Page 5,,,,,,,
-pw_022,pw_016,pw_022.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2024-02-11 Page 6,,,,,,,
-pw_023,pw_016,pw_023.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2024-02-11 Page 7,,,,,,,
-pw_024,,pw_024.jpg,image/jpeg,eng,Noah Gruenberg 2024-02-08,"Urbana, IL","Gruenberg, Noah",2024-02-08,"Knoebel, Genevieve; Bach, Johann Sebastian, 1685-1750; Micha, Raymond, 1910-2006; Glass, Philip; Davenport, Will; Gershwin, George, 1898-1937; Mozart, Wolfgang Amadeus, 1756-1791",Illini Union Courtyard,Contemporary; Baroque; Modern; Classical,American; German; Austrian; Belgian
-pw_025,,pw_025.jpg,multiple,eng,Kristin Shaffer 2024-04-10,"Bloomington, IN","Shaffer, Kristin",2024-04-10,"Bernstein, Leonard, 1918-1990; Viardot-García, Pauline, 1821-1910; Berg, Alban, 1885-1935; Elgar, Edward, 1857-1934; Mozart, Wolfgang Amadeus, 1756-1791",Ford-Crawford Hall,Classical; Romantic; Modern,American; French; Austrian; English
-pw_026,pw_025,pw_026.jpg,image/jpeg,eng,Kristin Shaffer 2024-04-10 Page 1,,,,,,,
-pw_027,pw_025,pw_027.jpg,image/jpeg,eng,Kristin Shaffer 2024-04-10 Page 2,,,,,,,
-pw_028,,pw_028.jpg,multiple,eng,Indiana University Baroque Orchestra 2024-04-13,"Bloomington, IN",Indiana University Baroque Orchestra,2024-04-13,"Vivaldi, Antonio, 1678-1741",Auer Hall,Baroque,Italian
-pw_029,pw_028,pw_029.jpg,image/jpeg,eng,Indiana University Baroque Orchestra 2024-04-13 Page 1,,,,,,,
-pw_030,pw_028,pw_030.jpg,image/jpeg,eng,Indiana University Baroque Orchestra 2024-04-13 Page 2,,,,,,,
-pw_031,pw_028,pw_031.jpg,image/jpeg,eng,Indiana University Baroque Orchestra 2024-04-13 Page 3,,,,,,,
-pw_032,,pw_032.jpg,image/jpeg,eng,Indiana University Chorale 2024-04-16,"Bloomington, IN",Indiana University Chorale,2024-04-16,"Haydn, Joseph, 1732-1809",Auer Hall,Classical ,Austrian
-pw_033,,pw_033.jpg,image/jpeg,eng,Ha Eun Kim 2024-02-01,"Bloomington, IN","Kim, Ha Eun",2024-02-01,"Haydn, Joseph, 1732-1809; Price, Florence, 1887-1953; Brahms, Johannes, 1833-1897",Auer Hall,Classical; Romantic; Modern,American; Austrian; German
-pw_034,,,multiple,eng,Indiana University Concert Orchestra 2024-01-24,"Bloomington, IN",Indiana University Concert Orchestra,2024-01-24,"Enesco, Georges, 1881-1955; Castelnuovo-Tedesco, Mario, 1895-1968; Elgar, Edward, 1857-1934",Musical Arts Center,Romantic; Modern,Romanian; Italian; English
-pw_035,pw_034,pw_035.jpg,image/jpeg,eng,Indiana University Concert Orchestra 2024-01-24 Page 1,,,,,,,
-pw_036,pw_034,pw_036.jpg,image/jpeg,eng,Indiana University Concert Orchestra 2024-01-24 Page 2,,,,,,,
-pw_037,,,multiple,eng,Indiana University Notus 2024-01-23,"Bloomington, IN",Indiana University Notus,2024-01-23,"Howells, Herbert, 1892-1983; Menotti, Gian Carlo, 1911-2007",Auer Hall,Modern,English; Italian
-pw_038,pw_037,pw_038.jpg,image/jpeg,eng,Indiana University Notus 2024-01-23 Page 1,,,,,,,
-pw_039,pw_037,pw_039.jpg,image/jpeg,eng,Indiana University Notus 2024-01-23 Page 2,,,,,,,
-pw_040,pw_037,pw_040.jpg,image/jpeg,eng,Indiana University Notus 2024-01-23 Page 3,,,,,,,
-pw_041,,,multiple,eng,Indiana University Concert Orchestra 2024-04-08,"Bloomington, IN",Indiana University Concert Orchestra,2024-04-08,"Barber, Samuel, 1910-1981; Holst, Gustav, 1874-1934",IU Auditorium,Modern,American; English
-pw_042,pw_041,pw_042.jpg,image/jpeg,eng,Indiana University Concert Orchestra 2024-04-08 Page 1,,,,,,,
-pw_043,pw_041,pw_043.jpg,image/jpeg,eng,Indiana University Concert Orchestra 2024-04-08 Page 2,,,,,,,
-pw_044,pw_041,pw_044.jpg,image/jpeg,eng,Indiana University Concert Orchestra 2024-04-08 Page 3,,,,,,,
+objectid,parentid,filename,format,language,title,location,performer,date,composer,venue,latitude,longitude,period,nationality
+pw_001,,pw_001.pdf,application/pdf,eng,Pittsburgh Symphony Orchestra 2023-06-09,"Pittsburgh, PA",Pittsburgh Symphony Orchestra,2023-06-09,"Gershwin, George, 1898-1937; Garrop, Stacy, 1969-; Strauss, Richard, 1864-1949; Ravel, Maurice, 1875-1937",Heinz Hall,40.443026,-80.002053,Modern; Contemporary,American; German; French
+pw_002,,,multiple,eng,Indiana University Voces Caelestes 2024-02-13,"Bloomington, IN",Indiana University Voces Caelestes,2024-02-13,"Paulus, Stephen; Mendelssohn-Bartholdy, Felix, 1809-1847; Kodály, Zoltán, 1882-1967; Carrillo, César Alejandro, 1957-; Brahms, Johannes, 1833-1897; Rheinberger, Josef, 1839-1901; Kõrvits, Tõnu, 1969-; Galbraith, Nancy, 1951-",Auer Hall,39.165973,-86.517595,Romantic; Modern; Contemporary,American; German; Hungarian; Venezuelan; Liechtensteiner; Estonian
+pw_003,pw_002,pw_003.jpg,image/jpeg,eng,Indiana University Voces Caelestes 2024-02-13 Page 1,,,,,,,,,
+pw_004,pw_002,pw_004.jpg,image/jpeg,eng,Indiana University Voces Caelestes 2024-02-13 Page 2,,,,,,,,,
+pw_005,,pw_005.jpg,image/jpeg,eng,Indiana University Chamber Orchestra 2024-10-23,"Bloomington, IN",Indiana University Chamber Orchestra,2024-10-23,"Haydn, Joseph, 1732-1809; Phan, P. Q., 1947-; Milhaud, Darius, 1892-1974",Auer Hall,39.165973,-86.517595,Classical; Modern; Contemporary,Austrian; Vietmanese; French
+pw_006,,pw_006.jpg,image/jpeg,eng,Indiana University Philharmonic Orchestra 2024-09-14,"Bloomington, IN",Indiana University Philharmonic Orchestra,2024-09-14,"Frank, Gabriela Lena; Britten, Benjamin, 1913-1976; Brahms, Johannes, 1833-1897",Musical Arts Center,39.166733,-86.517516,Contemporary; Modern; Romantic,American; English; German
+pw_007,,pw_007.jpg,image/jpeg,eng,Indiana University Symphony Orchestra 2024-09-15,"Bloomington, IN",Indiana University Symphony Orchestra,2024-09-15,"Hailstork, Adolphus C.; Tower, Joan, 1938-; Respighi, Ottorino, 1879-1936",Musical Arts Center,39.166733,-86.517516,Modern; Contemporary,American; Italian
+pw_008,,pw_008.jpg,multiple,eng,Sanctuary Choir Section Leaders 2024-09-29,"Indianapolis, IN",Sanctuary Choir Section Leaders,2024-09-29,"Ives, Charles, 1874-1954; Copland, Aaron, 1900-1990; Quilter, Roger, 1877-1953; Ravel, Maurice, 1875-1937; Strauss, Richard, 1864-1949; Fauré, Gabriel, 1845-1924",Second Presbyterian Church,39.898136,-86.159739,Modern; Romantic,American; English; German; French
+pw_009,pw_008,pw_009.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2024-09-29 Page 1,,,,,,,,,
+pw_010,pw_008,pw_010.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2024-09-29 Page 2,,,,,,,,,
+pw_011,pw_008,pw_011.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2024-09-29 Page 3,,,,,,,,,
+pw_012,,pw_012.jpg,multiple,eng,Indiana University Singers 2024-10-16,"Bloomington, IN",Indiana University Singers,2024-10-16,"Fauré, Gabriel, 1845-1924; Debussy, Claude, 1862-1918; Ravel, Maurice, 1875-1937; Boulanger, Lili, 1893-1918",Auer Hall,39.165973,-86.517595,Romantic; Modern,French
+pw_013,pw_012,pw_013.jpg,image/jpeg,eng,Indiana University Singers 2024-10-16 Page 1,,,,,,,,,
+pw_014,pw_012,pw_014.jpg,image/jpeg,eng,Indiana University Singers 2024-10-16 Page 2,,,,,,,,,
+pw_015,,pw_015.jpg,image/jpeg,eng,Sanctuary Choir 2024-04-28,"Indianapolis, IN",Sanctuary Choir,2024-04-28,"Puccini, Giacomo, 1858-1924",Second Presbyterian Church,39.898136,-86.159739,Romantic,Italian
+pw_016,,pw_016.jpg,multiple,eng,Sanctuary Choir Section Leaders 2024-02-11,"Indianapolis, IN",Sanctuary Choir Section Leaders,2024-02-11,"Wildhorn, Frank; Gounod, Charles, 1818-1893; Rodgers, Richard, 1902-1979; Schumann, Robert, 1810-1856; Schubert, Franz, 1797-1828; Hahn, Reynaldo, 1875-1947; Quilter, Roger, 1877-1953; Bernstein, Leonard, 1918-1990; Strauss, Richard, 1864-1949",Second Presbyterian Church,39.898136,-86.159739,Classical; Romantic; Modern; Contemporary,American; French; German; Austrian; English
+pw_017,pw_016,pw_017.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2024-02-11 Page 1,,,,,,,,,
+pw_018,pw_016,pw_018.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2024-02-11 Page 2,,,,,,,,,
+pw_019,pw_016,pw_019.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2024-02-11 Page 3,,,,,,,,,
+pw_020,pw_016,pw_020.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2024-02-11 Page 4,,,,,,,,,
+pw_021,pw_016,pw_021.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2024-02-11 Page 5,,,,,,,,,
+pw_022,pw_016,pw_022.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2024-02-11 Page 6,,,,,,,,,
+pw_023,pw_016,pw_023.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2024-02-11 Page 7,,,,,,,,,
+pw_024,,pw_024.jpg,image/jpeg,eng,Noah Gruenberg 2024-02-08,"Urbana, IL","Gruenberg, Noah",2024-02-08,"Knoebel, Genevieve; Bach, Johann Sebastian, 1685-1750; Micha, Raymond, 1910-2006; Glass, Philip; Davenport, Will; Gershwin, George, 1898-1937; Mozart, Wolfgang Amadeus, 1756-1791",Illini Union Courtyard,40.109423,-88.227201,Contemporary; Baroque; Modern; Classical,American; German; Austrian; Belgian
+pw_025,,pw_025.jpg,multiple,eng,Kristin Shaffer 2024-04-10,"Bloomington, IN","Shaffer, Kristin",2024-04-10,"Bernstein, Leonard, 1918-1990; Viardot-García, Pauline, 1821-1910; Berg, Alban, 1885-1935; Elgar, Edward, 1857-1934; Mozart, Wolfgang Amadeus, 1756-1791",Ford-Crawford Hall,39.165435,-86.517211,Classical; Romantic; Modern,American; French; Austrian; English
+pw_026,pw_025,pw_026.jpg,image/jpeg,eng,Kristin Shaffer 2024-04-10 Page 1,,,,,,,,,
+pw_027,pw_025,pw_027.jpg,image/jpeg,eng,Kristin Shaffer 2024-04-10 Page 2,,,,,,,,,
+pw_028,,pw_028.jpg,multiple,eng,Indiana University Baroque Orchestra 2024-04-13,"Bloomington, IN",Indiana University Baroque Orchestra,2024-04-13,"Vivaldi, Antonio, 1678-1741",Auer Hall,39.165973,-86.517595,Baroque,Italian
+pw_029,pw_028,pw_029.jpg,image/jpeg,eng,Indiana University Baroque Orchestra 2024-04-13 Page 1,,,,,,,,,
+pw_030,pw_028,pw_030.jpg,image/jpeg,eng,Indiana University Baroque Orchestra 2024-04-13 Page 2,,,,,,,,,
+pw_031,pw_028,pw_031.jpg,image/jpeg,eng,Indiana University Baroque Orchestra 2024-04-13 Page 3,,,,,,,,,
+pw_032,,pw_032.jpg,image/jpeg,eng,Indiana University Chorale 2024-04-16,"Bloomington, IN",Indiana University Chorale,2024-04-16,"Haydn, Joseph, 1732-1809",Auer Hall,39.165973,-86.517595,Classical ,Austrian
+pw_033,,pw_033.jpg,image/jpeg,eng,Ha Eun Kim 2024-02-01,"Bloomington, IN","Kim, Ha Eun",2024-02-01,"Haydn, Joseph, 1732-1809; Price, Florence, 1887-1953; Brahms, Johannes, 1833-1897",Auer Hall,39.165973,-86.517595,Classical; Romantic; Modern,American; Austrian; German
+pw_034,,,multiple,eng,Indiana University Concert Orchestra 2024-01-24,"Bloomington, IN",Indiana University Concert Orchestra,2024-01-24,"Enesco, Georges, 1881-1955; Castelnuovo-Tedesco, Mario, 1895-1968; Elgar, Edward, 1857-1934",Musical Arts Center,39.166733,-86.517516,Romantic; Modern,Romanian; Italian; English
+pw_035,pw_034,pw_035.jpg,image/jpeg,eng,Indiana University Concert Orchestra 2024-01-24 Page 1,,,,,,,,,
+pw_036,pw_034,pw_036.jpg,image/jpeg,eng,Indiana University Concert Orchestra 2024-01-24 Page 2,,,,,,,,,
+pw_037,,,multiple,eng,Indiana University Notus 2024-01-23,"Bloomington, IN",Indiana University Notus,2024-01-23,"Howells, Herbert, 1892-1983; Menotti, Gian Carlo, 1911-2007",Auer Hall,39.165973,-86.517595,Modern,English; Italian
+pw_038,pw_037,pw_038.jpg,image/jpeg,eng,Indiana University Notus 2024-01-23 Page 1,,,,,,,,,
+pw_039,pw_037,pw_039.jpg,image/jpeg,eng,Indiana University Notus 2024-01-23 Page 2,,,,,,,,,
+pw_040,pw_037,pw_040.jpg,image/jpeg,eng,Indiana University Notus 2024-01-23 Page 3,,,,,,,,,
+pw_041,,,multiple,eng,Indiana University Concert Orchestra 2024-04-08,"Bloomington, IN",Indiana University Concert Orchestra,2024-04-08,"Barber, Samuel, 1910-1981; Holst, Gustav, 1874-1934",IU Auditorium,39.168899,-86.518181,Modern,American; English
+pw_042,pw_041,pw_042.jpg,image/jpeg,eng,Indiana University Concert Orchestra 2024-04-08 Page 1,,,,,,,,,
+pw_043,pw_041,pw_043.jpg,image/jpeg,eng,Indiana University Concert Orchestra 2024-04-08 Page 2,,,,,,,,,
+pw_044,pw_041,pw_044.jpg,image/jpeg,eng,Indiana University Concert Orchestra 2024-04-08 Page 3,,,,,,,,,
+pw_055,,,multiple,eng,Sanctuary Choir Section Leaders 2023-10-08,"Indianapolis, IN",Sanctuary Choir Section Leaders,2023-10-08,"Stanford, Charles Villiers, 1852-1924; Head, Michael, 1900-1976; Butterworth, George, 1885-1916; Purcell, Henry, 1659-1695; Dowland, John, 1563?-1626; Finzi, Gerald, 1901-1956; Quilter, Roger, 1877-1953; Elgar, Edward, 1857-1934",Second Presbyterian Church,39.898136,-86.159739,Renaissance; Baroque; Romantic; Modern,Irish; English; 
+pw_056,pw_055,pw_056.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2023-10-08 Page 1,,,,,,,,,
+pw_057,pw_056,pw_057.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2023-10-08 Page 2,,,,,,,,,
+pw_058,pw_057,pw_058.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2023-10-08 Page 3,,,,,,,,,
+pw_059,pw_058,pw_059.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2023-10-08 Page 4,,,,,,,,,
+pw_060,pw_059,pw_060.jpg,image/jpeg,eng,Sanctuary Choir Section Leaders 2023-10-08 Page 5,,,,,,,,,
+pw_061,,pw_061.jpg,image/jpeg,eng,Indiana University Orchestra 2023-09-27,"Bloomington, IN",Indiana University Orchestra,2023-09-27,"Beethoven, Ludwig van, 1770-1827; Abels, Michael, 1962-; Hindemith, Paul, 1895-1963",Musical Arts Center,39.166733,-86.517516,Classical; Contemporary; Modern,German; American
+pw_062,,pw_062.jpg,image/jpeg,eng,Robert Hatten 2023-09-07,"Bloomington, IN",Robert Hatten,2023-09-07,"Bach, Johann Sebastian, 1685-1750",Ford-Crawford Hall,39.165435,-86.517211,Baroque,German
+pw_063,,pw_063.jpg,image/jpeg,eng,Jiawei Yan 2023-10-31,"Bloomington, IN",Jiawei Yan,2023-10-31,"Hoffmeister, Franz Anton, 1754-1812",Auer Hall,39.165973,-86.517595,Classical,German
+pw_064,,pw_064.jpg,image/jpeg,eng,Indiana University Oratorio Chorus 2023-10-28,"Bloomington, IN",Indiana University Oratorio Chorus,2023-10-28,"Orff, Carl, 1895-1982",Musical Arts Center,39.166733,-86.517516,Modern,German
+pw_065,,pw_065.jpg,image/jpeg,eng,Indiana University Orchestra 2022-10-02,"Bloomington, IN",Indiana University Orchestra,2022-10-02,"Glière, Reinhold Morit︠s︡evich, 1875-1956; Moncayo, José Pablo, 1912-1958; Beethoven, Ludwig van, 1770-1827",Musical Arts Center,39.166733,-86.517516,Modern; Classical,German; Mexican; Russian
+pw_066,,pw_066.jpg,image/jpeg,eng,Indiana University Chamber Orchestra 2023-09-20,"Bloomington, IN",Indiana University Chamber Orchestra,2023-09-20,"Rossini, Gioacchino, 1792-1868; Abels, Michael, 1962-; Fauré, Gabriel, 1845-1924; Haydn, Joseph, 1732-1809",Auer Hall,39.165973,-86.517595,Classical; Romantic; Modern; Contemporary,Italian; American; French; Austrian
+pw_067,,pw_067.jpg,image/jpeg,eng,Indiana University Philharmonic Orchestra 2022-10-05,"Bloomington, IN",Indiana University Philharmonic Orchestra,2022-10-05,"Beethoven, Ludwig van, 1770-1827",Musical Arts Center,39.166733,-86.517516,Romantic,German
+pw_068,,,multiple,eng,Indiana University Singers 2022-11-09,"Bloomington, IN",Indiana University Singers,2022-11-09,"Saint-Georges, Joseph Bologne, chevalier de, 1745-1799; Mozart, Wolfgang Amadeus, 1756-1791",Auer Hall,39.165973,-86.517595,Classical,French; Austrian
+pw_069,pw_068,pw_069.jpg,image/jpeg,eng,Indiana University Singers 2022-11-09 Page 1,,,,,,,,,
+pw_070,pw_068,pw_070.jpg,image/jpeg,eng,Indiana University Singers 2022-11-09 Page 2,,,,,,,,,
+pw_071,,pw_071.jpg,image/jpeg,eng,Indiana University Conductors Orchestra 2023-02-06,"Bloomington, IN",Indiana University Conductors Orchestra,2023-02-06,"Sibelius, Jean, 1865-1957",Auer Hall,39.165973,-86.517595,Modern,Finnish
+pw_072,,pw_072.jpg,image/jpeg,eng,Indiana University Conductors Orchestra 2023-01-28,"Bloomington, IN",Indiana University Conductors Orchestra,2023-01-28,"Tchaikovsky, Peter Ilich, 1840-1893",Auer Hall,39.165973,-86.517595,Romantic,Russian
+pw_073,,pw_073.jpg,image/jpeg,eng,Indiana University Philharmonic Orchestra 2023-01-21,"Bloomington, IN",Indiana University Philharmonic Orchestra,2023-01-21,"Montgomery, Jessie; Respighi, Ottorino, 1879-1936; Villa-Lobos, Heitor",Musical Arts Center,39.166733,-86.517516,Contemporary; Modern,American; Italian; Brazilian
+pw_074,,pw_074.pdf,application/pdf,eng,Tom Beghin 2024-11-14,"Chicago, IL",Tom Beghin,2024-11-14,"Bach, Carl Philipp Emanuel, 1714-1788; Mozart, Wolfgang Amadeus, 1756-1791",Palmer House Hotel,41.88049,-87.626803,Classical,German; Austrian
+pw_075,,pw_075.jpg,image/jpeg,eng,Indiana University Opera Theater 2023-07-08,"Bloomington, IN",Indiana University Opera Theater,2023-07-08,"Purcell, Henry, 1659-1695",Auer Hall,39.165973,-86.517595,Baroque,English
