@@ -8,20 +8,23 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="haydnplaying" %}
+{% include feature/jumbotron.html objectid="https://upload.wikimedia.org/wikipedia/commons/3/3a/HaydnPlaying.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;Next Steps" %}
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+## About the Creator
+{% include feature/image.html objectid="https://drive.google.com/file/d/1nIZK6CvUyIibMyKDCU27vKT0iQFQVfIF/view?usp=drive_link" %}
+Peyson Weekley is a third-year graduate student at Indiana University-Bloomington studying for master's degrees in musicology and library science. Originally from Pittsburgh, Pennsylvania, he earned bachelor's degrees in music and political science from Ohio University in Athens, Ohio. He currently works as a library supervisor for the IU Residence Hall Libraries and as a reference/instruction assistant in the William & Gayle Cook Music Library. After graduating, he intends to study for a PhD in historical musicology.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+## Next Steps
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+## Metadata Citations
+The following metadata fields for this project make use of external controlled vocabularies.
+-location: [Getty Thesaurus of Geographic Names](https://www.getty.edu/research/tools/vocabularies/tgn/index.html)
+-composer: [Library of Congress Authorities](https://authorities.loc.gov/)
+-Date: [W3C Date and Time Formats](https://www.w3.org/TR/NOTE-datetime)
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+## Acknowledgements
+Peyson would like to thank John Walsh, Gyuri Kang, and his Z652 classmates for their immense help with this project.
