@@ -9,5 +9,5 @@ cloud-stopwords:
 
 ## Browse Periods
 
-Use this word cloud visualization to browse locations.
+Use this word cloud visualization to browse periods.
 Word size is determined by frequency and all words link to a corresponding collection search.
