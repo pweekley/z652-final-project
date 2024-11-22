@@ -12,6 +12,11 @@ credits: true
 
 ## About the Collection
 
+The 31 objects in the Collection of Classical Concerts digital repository come from the private collection of Peyson, a graduate student and classical music enthusiast. Peyson's interest in classical music began shortly after joining the school orchestra to play the viola in fourth grade. Since then, his interest has grown into a love, hobby, educational path, and future career! A favorite pasttime of Peyson's is to attend classical music concerts of all sorts, from which he always keeps/collects the program. Until this semester, Peyson has kept a record of his performances attended in a very basic Microsoft Word document; this digital repository enables him to browse and search digitized programs from the performances he has attended. The collection also enables him to analyze trends in his performances. For example, he prefers orchestral music--something that is reflected here. This version of this project is really just the start of what is possible with this collection. Peyson's entire collection of programs is not included yet; only a manageable subset has been digitized for the purposes of submission for Z652 in fall 2024. Next steps include:  
+-retrospectively cataloging and digitizing the remainder of Peyson's program collection  
+-creating a workflow to catalog and digitize newly acquired programs as Peyson continues to attend performances 
+-link to other repositories of relevant information, such as professional orchestras' records of these performances
+
 ## About the Creator
 
 {% include feature/image.html objectid="https://github.com/pweekley/z652-final-project/blob/main/objects/pweekley1.jpg?raw=true" alt="Peyson Weekley in Chicago, Illinois" %}  
