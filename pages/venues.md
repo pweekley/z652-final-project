@@ -1,7 +1,7 @@
 ---
 title: Venues
 layout: cloud
-permalink: /cloud.html
+permalink: /venues.html
 cloud-fields: venue
 cloud-min:
 cloud-stopwords:
