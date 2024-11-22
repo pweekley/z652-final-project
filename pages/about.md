@@ -15,7 +15,7 @@ credits: true
 ## About the Collection
 
 ## About the Creator
-{% include feature/image.html objectid="https://drive.google.com/file/d/1nIZK6CvUyIibMyKDCU27vKT0iQFQVfIF/view?usp=drive_link" %}
+{% include feature/image.html objectid="https://drive.google.com/file/d/1nIZK6CvUyIibMyKDCU27vKT0iQFQVfIF/view?usp=drive_link" %}  
 Peyson Weekley is a third-year graduate student at Indiana University-Bloomington studying for master's degrees in musicology and library science. Originally from Pittsburgh, Pennsylvania, he earned bachelor's degrees in music and political science from Ohio University in Athens, Ohio. He currently works as a library supervisor for the IU Residence Hall Libraries and as a reference/instruction assistant in the William & Gayle Cook Music Library. After graduating, he intends to study for a PhD in historical musicology.
 
 ## Metadata Citations
