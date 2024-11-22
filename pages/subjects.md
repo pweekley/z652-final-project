@@ -1,5 +1,5 @@
 ---
-title: Subjects
+title: Performers
 layout: cloud
 permalink: /subjects.html
 # Default subject page is configured in "_data/theme.yml"
