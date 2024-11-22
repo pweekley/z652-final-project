@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://upload.wikimedia.org/wikipedia/commons/3/3a/HaydnPlaying.jpg" width=75 %}
+{% include feature/jumbotron.html objectid="https://upload.wikimedia.org/wikipedia/commons/3/3a/HaydnPlaying.jpg" width=45 %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the Creator;Metadata Citations;Acknowledgements" %}
 
