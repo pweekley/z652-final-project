@@ -1,11 +1,12 @@
 display_name,stub,dropdown_parent
 Home,/
 Browse,/browse.html
-Performers,/performers.html
-Composers,/composers.html
-Periods,/periods.html
-Locations,/locations.html
-Venues,/venues.html
+Subjects,,
+Performers,/performers.html,Subjects
+Composers,/composers.html,Subjects
+Periods,/periods.html,Subjects
+Locations,/locations.html,Subjects
+Venues,/venues.html,Subjects
 Map,/map.html
 Timeline,/timeline.html
 Data,/data.html
