@@ -8,9 +8,9 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://upload.wikimedia.org/wikipedia/commons/3/3a/HaydnPlaying.jpg" %}
+{% include feature/jumbotron.html objectid="https://upload.wikimedia.org/wikipedia/commons/3/3a/HaydnPlaying.jpg" width=75 %}
 
-{% include feature/nav-menu.html sections="About the Collection;Next Steps" %}
+{% include feature/nav-menu.html sections="About the Collection;About the Creator;Next Steps;Metadata Citations;Acknowledgements" %}
 
 ## About the Collection
 
@@ -21,10 +21,10 @@ Peyson Weekley is a third-year graduate student at Indiana University-Bloomingto
 ## Next Steps
 
 ## Metadata Citations
-The following metadata fields for this project make use of external controlled vocabularies.
--location: [Getty Thesaurus of Geographic Names](https://www.getty.edu/research/tools/vocabularies/tgn/index.html)
--composer: [Library of Congress Authorities](https://authorities.loc.gov/)
--Date: [W3C Date and Time Formats](https://www.w3.org/TR/NOTE-datetime)
+The following metadata fields for this project make use of external controlled vocabularies.  
+-location: [Getty Thesaurus of Geographic Names](https://www.getty.edu/research/tools/vocabularies/tgn/index.html)  
+-composer: [Library of Congress Authorities](https://authorities.loc.gov/)  
+-Date: [W3C Date and Time Formats](https://www.w3.org/TR/NOTE-datetime)  
 
 ## Acknowledgements
 Peyson would like to thank John Walsh, Gyuri Kang, and his Z652 classmates for their immense help with this project.
