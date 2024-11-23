@@ -3,6 +3,7 @@
     <h5 class="card-title">Description</h5>
     <p class="card-text">{{ site.description }}</p>
     {%- assign about = site.data.config-nav | where: "stub","/about.html" | size -%}
+    Collection of Classical Concerts is a digital library of programs from classical music concerts attended by Peyson Weekley.
     {% if about > 0 %}<a class="btn btn-outline-primary" href="{{ '/about.html' | relative_url }}" >Learn More &raquo;</a>{% endif %}
   </div>
 </div>
